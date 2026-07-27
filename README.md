@@ -63,6 +63,7 @@ Netlify will automatically detect your project and prepopulate the settings, but
 - Build Command: `npm run build`
 - Publish directory: `.next`
 
+
 #### Additional Steps to Take on Netlify
 - Add Environmental Variables
     - Any Enviromental variables you are using in your `.env` file should be added to Netlify. 
