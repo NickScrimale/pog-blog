@@ -56,7 +56,7 @@ const examplePromise = () => {
     });
 });
 ```
-
+a
 ### Deploying on Netlify
 Netlify will automatically detect your project and prepopulate the settings, but should something go wrong and it does not, here are the commands:
 
