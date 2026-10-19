@@ -44,9 +44,6 @@ function Home() {
     </div>
   );
 }
-// const [blogObject, setBlogObject] = useState();
-// const [filteredBlog, setfFlteredBlog] = useState();
-// const { user } = useAuth();
 
 export default Home;
 
